@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  selenium:
+    build: .
+    volumes:
+      - ./target:/app/target
+    ports:
+      - "4444:4444"

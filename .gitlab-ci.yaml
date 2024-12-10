@@ -1,0 +1,27 @@
+stages:
+  - build
+  - test
+  - report
+
+build:
+  stage: build
+  script:
+    - docker build -t selenium-tests .
+
+test:
+  stage: test
+  script:
+    - docker-compose up --build
+  artifacts:
+    paths:
+      - target/allure-results
+    expire_in: 1 week
+
+report:
+  stage: report
+  script:
+    - allure generate target/allure-results -o target/allure-report --clean
+  artifacts:
+    paths:
+      - target/allure-report
+    expire_in: 1 week

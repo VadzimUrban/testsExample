@@ -1,0 +1,80 @@
+2024-12-10 19:54:20 [main] INFO  base.BasePage - got title text
+2024-12-10 19:54:25 [main] INFO  base.BasePage - got title text
+2024-12-10 19:54:27 [main] INFO  base.BasePage - added product to cart
+2024-12-10 19:54:27 [main] INFO  base.BasePage - opened cart page
+2024-12-10 19:54:29 [main] INFO  base.BasePage - filter products from low to height price
+2024-12-10 19:54:29 [main] INFO  base.BasePage - got current selected value
+2024-12-10 19:54:30 [main] INFO  base.BasePage - added product to cart
+2024-12-10 19:54:31 [main] INFO  base.BasePage - opened cart page
+2024-12-10 19:54:32 [main] INFO  base.BasePage - opened details page
+2024-12-10 19:54:34 [main] INFO  base.BasePage - opened burger menu
+2024-12-10 19:54:35 [main] INFO  base.BasePage - logout
+2024-12-10 19:54:37 [main] INFO  base.BasePage - added product to cart
+2024-12-10 19:54:37 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:26:55 [main] INFO  base.BasePage - got title text
+2024-12-10 20:27:00 [main] INFO  base.BasePage - got title text
+2024-12-10 20:27:01 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:27:02 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:27:03 [main] INFO  base.BasePage - filter products from low to height price
+2024-12-10 20:27:03 [main] INFO  base.BasePage - got current selected value
+2024-12-10 20:27:05 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:27:06 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:27:06 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2024-12-10 20:27:08 [main] INFO  base.BasePage - opened details page
+2024-12-10 20:27:09 [main] INFO  base.BasePage - opened burger menu
+2024-12-10 20:27:10 [main] INFO  base.BasePage - logout
+2024-12-10 20:27:12 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:27:12 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:34:37 [main] INFO  base.BasePage - got title text
+2024-12-10 20:34:42 [main] INFO  base.BasePage - got title text
+2024-12-10 20:34:43 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:34:44 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:34:45 [main] INFO  base.BasePage - filter products from low to height price
+2024-12-10 20:34:45 [main] INFO  base.BasePage - got current selected value
+2024-12-10 20:34:47 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:34:47 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:34:47 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2024-12-10 20:34:49 [main] INFO  base.BasePage - opened details page
+2024-12-10 20:34:51 [main] INFO  base.BasePage - opened burger menu
+2024-12-10 20:34:52 [main] INFO  base.BasePage - logout
+2024-12-10 20:34:54 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:34:54 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:38:26 [main] INFO  base.BasePage - got title text
+2024-12-10 20:38:31 [main] INFO  base.BasePage - got title text
+2024-12-10 20:38:34 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:38:34 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:38:37 [main] INFO  base.BasePage - filter products from low to height price
+2024-12-10 20:38:37 [main] INFO  base.BasePage - got current selected value
+2024-12-10 20:38:39 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:38:39 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:38:41 [main] INFO  base.BasePage - opened details page
+2024-12-10 20:38:43 [main] INFO  base.BasePage - opened burger menu
+2024-12-10 20:38:44 [main] INFO  base.BasePage - logout
+2024-12-10 20:38:46 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:38:46 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:40:21 [main] INFO  base.BasePage - got title text
+2024-12-10 20:40:25 [main] INFO  base.BasePage - got title text
+2024-12-10 20:40:28 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:40:28 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:40:31 [main] INFO  base.BasePage - filter products from low to height price
+2024-12-10 20:40:31 [main] INFO  base.BasePage - got current selected value
+2024-12-10 20:40:33 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:40:33 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:40:35 [main] INFO  base.BasePage - opened details page
+2024-12-10 20:40:37 [main] INFO  base.BasePage - opened burger menu
+2024-12-10 20:40:38 [main] INFO  base.BasePage - logout
+2024-12-10 20:40:40 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:40:40 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:41:58 [main] INFO  base.BasePage - got title text
+2024-12-10 20:42:03 [main] INFO  base.BasePage - got title text
+2024-12-10 20:42:04 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:42:04 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:42:06 [main] INFO  base.BasePage - filter products from low to height price
+2024-12-10 20:42:06 [main] INFO  base.BasePage - got current selected value
+2024-12-10 20:42:08 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:42:09 [main] INFO  base.BasePage - opened cart page
+2024-12-10 20:42:11 [main] INFO  base.BasePage - opened details page
+2024-12-10 20:42:13 [main] INFO  base.BasePage - opened burger menu
+2024-12-10 20:42:14 [main] INFO  base.BasePage - logout
+2024-12-10 20:42:16 [main] INFO  base.BasePage - added product to cart
+2024-12-10 20:42:16 [main] INFO  base.BasePage - opened cart page

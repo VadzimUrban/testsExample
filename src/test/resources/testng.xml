@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="https://www.saucedemo.com/ auto-tests">
+    <listeners>
+        <listener class-name="utils.TestListener"/>
+    </listeners>
+    <test name="regress">
+        <classes>
+            <class name="features.authorise.AuthorizePageTest"/>
+            <class name="features.cart.CartPageTest"/>
+            <class name="features.products.ProductsPageTest"/>
+            <class name="features.product_detail.ProductDetailsPageTest"/>
+            <class name="features.check_out_step_one.CheckOutStepTwoPageTest"/>
+            <class name="features.check_out_step_two.CheckOutStepTwoPageTest"/>
+            <class name="features.check_out_complete.CheckOutCompletePageTest"/>
+        </classes>
+    </test>
+</suite>
